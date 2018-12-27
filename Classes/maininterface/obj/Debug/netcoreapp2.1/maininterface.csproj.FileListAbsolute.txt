@@ -1,0 +1,16 @@
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.csprojAssemblyReference.cache
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.csproj.CoreCompileInputs.cache
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.AssemblyInfoInputs.cache
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.AssemblyInfo.cs
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\maininterface.deps.json
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\maininterface.runtimeconfig.json
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\maininterface.runtimeconfig.dev.json
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\maininterface.dll
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\maininterface.pdb
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\interfaceclasses.dll
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\interfacedll.dll
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\interfaceclasses.pdb
+E:\Training\Interfaces\Classes\maininterface\bin\Debug\netcoreapp2.1\interfacedll.pdb
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.csproj.CopyComplete
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.dll
+E:\Training\Interfaces\Classes\maininterface\obj\Debug\netcoreapp2.1\maininterface.pdb

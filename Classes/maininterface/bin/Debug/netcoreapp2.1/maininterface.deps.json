@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "maininterface/1.0.0": {
+        "dependencies": {
+          "interfaceclasses": "1.0.0",
+          "interfacedll": "1.0.0"
+        },
+        "runtime": {
+          "maininterface.dll": {}
+        }
+      },
+      "interfaceclasses/1.0.0": {
+        "dependencies": {
+          "interfacedll": "1.0.0"
+        },
+        "runtime": {
+          "interfaceclasses.dll": {}
+        }
+      },
+      "interfacedll/1.0.0": {
+        "runtime": {
+          "interfacedll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maininterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "interfaceclasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "interfacedll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
